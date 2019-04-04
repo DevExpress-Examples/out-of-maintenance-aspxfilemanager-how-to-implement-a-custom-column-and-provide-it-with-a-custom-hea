@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [WebForm1.aspx](./CS/WebApplication1/WebForm1.aspx) (VB: [WebForm1.aspx.vb](./VB/WebApplication1/WebForm1.aspx.vb))
+* [WebForm1.aspx](./CS/WebApplication1/WebForm1.aspx) (VB: [WebForm1.aspx](./VB/WebApplication1/WebForm1.aspx))
 * [WebForm1.aspx.cs](./CS/WebApplication1/WebForm1.aspx.cs) (VB: [WebForm1.aspx.vb](./VB/WebApplication1/WebForm1.aspx.vb))
 <!-- default file list end -->
 # ASPxFileManager - How to implement a custom column and provide it with a custom header filter
